@@ -3,6 +3,8 @@ Enjoy the sound of proteins, based on science.
 > **Protein sonification based on infrared spectroscopy and biophysics.**
 > *Listen to the raw physics of life.*
 
+[VISIT THE WIKI FOR IN DEEP INFORMATION](https://github.com/ampinzonv/aminoheartz/wiki/The-theory)
+
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Experimental-orange)]()
